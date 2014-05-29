@@ -1,0 +1,1 @@
+﻿package com.educar.sopa {	import com.util.HTMLColors;		public class AppColors {		public static const GRID_BACK:uint = 0xEAEAEA;		public static const GRID_SELECTED:uint = 0xFFB64A;				public static const ANSWER_BACK:uint = 0x4D4C4D;		public static const ANSWER_FONT:uint = 0xFDB813;			}	}

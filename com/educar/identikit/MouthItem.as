@@ -1,0 +1,1 @@
+﻿package com.educar.identikit {		public class MouthItem extends IdentikitItem {	}	}

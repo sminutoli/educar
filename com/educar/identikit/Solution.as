@@ -1,0 +1,1 @@
+﻿package com.educar.identikit {	import flash.utils.getQualifiedClassName;		public class Solution {		public static function checkItem( item:IdentikitItem ):Boolean {			var ok:Array = [ 'Hair3', 'Eyebrows3', 'Eyes2', 'Nose3', 'Mouth1', 'Ears3' ];			return ok.indexOf( getQualifiedClassName(item) ) >= 0;		}	}	}
