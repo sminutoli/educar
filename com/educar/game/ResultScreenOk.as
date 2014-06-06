@@ -1,0 +1,1 @@
+﻿package com.educar.game {		public class ResultScreenOk extends ResultScreen {		override protected function createInterface():void {			this.text = new ResultTextOk();			this.addChild( this.text );						this.face = new ResultFaceOk();			this.addChild( this.face );						this.close = new ResultButtonOk();			this.addChild( this.close );		}	}	}
